@@ -1,0 +1,16 @@
+h1 {background-color: red;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
+h4 {background-color: yellow;
+font-size: 25px;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;}
+
+p {text-align: center;}
+
+.description {font-size: 15px;
+color: black}
+
